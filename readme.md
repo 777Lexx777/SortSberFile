@@ -8,7 +8,7 @@
 Используется библиотека для сортировки больших объемов davidmoten / big-sorter
 https://github.com/davidmoten/big-sorter/tree/master
 ```
-java -jar SortSberFile.jar C:\Users\user\1\java\file.sort\src\main\resources\testFile.sh C:\Users\user\1\java\file.sort\src\main\resources\testFileWright.txt = 
+java -jar SortSberFile.jar C:\Users\user\1\java\SortSberFile\src\test\java\util\TestFileRead.sh C:\Users\user\1\java\SortSberFile\src\test\java\util\testFileReadAll.txt = 
 ```
 
 
