@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Application
+Class-Path: big-sorter-0.1.25.jar guava-mini-0.1.4.jar fastutil-7.0.13.j
+ ar
+

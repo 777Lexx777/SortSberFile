@@ -1,0 +1,10 @@
+-Dopenam.jwt.translate=https:// epa
+-Dcert.filter.cn=iftykc-apc001l
+-Dtech.filter.passport.common.oauth2.token.clientId=ift-smmb@
+-Dapic=https://k3-apic-g
+-Dapic.consumer-api=https://k3-a
+-Dtyk=https://iftykc-ap
+-Dtyk.k4=https://rrtyk
+-Dotp=https://otp-k3
+-Dotp=https://otp-k3
+-Dotp=https://otp-k3
